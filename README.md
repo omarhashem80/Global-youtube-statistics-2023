@@ -33,7 +33,7 @@ This project leverages a dataset of YouTube statistics from 2023 to explore and 
 ## 📁 **Project Structure**
 
 - **`Global YouTube Statistics 2023.ipynb`**: Jupyter Notebook containing the full analysis and visualizations.  
-- **`data/`**: Directory containing the raw and processed dataset.  
+- **`Global YouTube Statistics.csv`**: the raw dataset.  
 - **`README.md`**: Documentation for understanding the project structure and findings.  
 
 ---
